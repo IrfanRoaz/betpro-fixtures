@@ -1,0 +1,80 @@
+[
+  {
+    "match": {
+      "title": "England V New Zealand",
+      "date": "2026-06-18",
+      "venue": "The Kia Oval, London",
+      "team1_logo": "https://flagcdn.com/w80/gb-eng.png",
+      "team2_logo": "https://flagcdn.com/w80/nz.png"
+    },
+    "time": { "display": "15:00" },
+    "series": { "name": "New Zealand Tour of England 2026 - 2nd Test" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "West Indies W V Scotland W",
+      "date": "2026-06-18",
+      "venue": "Headingley, Leeds",
+      "team1_logo": "https://flagcdn.com/w80/jm.png",
+      "team2_logo": "https://flagcdn.com/w80/gb-sct.png"
+    },
+    "time": { "display": "22:30" },
+    "series": { "name": "ICC Women's T20 World Cup 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Texas Super Kings V Seattle Orcas",
+      "date": "2026-06-19",
+      "venue": "Grand Prairie Cricket Stadium, Dallas",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "05:30" },
+    "series": { "name": "Major League Cricket 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Bangladesh V Australia",
+      "date": "2026-06-19",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "team1_logo": "https://flagcdn.com/w80/bd.png",
+      "team2_logo": "https://flagcdn.com/w80/au.png"
+    },
+    "time": { "display": "13:00" },
+    "series": { "name": "Australia Tour of Bangladesh 2026 - 2nd T20I" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "New Zealand W V Ireland W",
+      "date": "2026-06-19",
+      "venue": "Utilita Bowl, Southampton",
+      "team1_logo": "https://flagcdn.com/w80/nz.png",
+      "team2_logo": "https://flagcdn.com/w80/ie.png"
+    },
+    "time": { "display": "22:30" },
+    "series": { "name": "ICC Women's T20 World Cup 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Los Angeles Knight Riders V San Francisco Unicorns",
+      "date": "2026-06-19",
+      "venue": "Grand Prairie Cricket Stadium, Dallas",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "01:30" },
+    "series": { "name": "Major League Cricket 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  }
+]
