@@ -1,79 +1,66 @@
 [
   {
     "match": {
+      "title": "India V Afghanistan",
+      "date": "2026-06-20",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "13:30" },
+    "series": { "name": "Afghanistan tour of India 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Australia W V Netherlands W",
+      "date": "2026-06-20",
+      "venue": "The Rose Bowl, Southampton",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "10:30" },
+    "series": { "name": "ICC Women's T20 World Cup 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
       "title": "England V New Zealand",
-      "date": "2026-06-18",
+      "date": "2026-06-20",
       "venue": "The Kia Oval, London",
-      "team1_logo": "https://flagcdn.com/w80/gb-eng.png",
-      "team2_logo": "https://flagcdn.com/w80/nz.png"
+      "team1_logo": "",
+      "team2_logo": ""
     },
-    "time": { "display": "15:00" },
-    "series": { "name": "New Zealand Tour of England 2026 - 2nd Test" },
+    "time": { "display": "11:00" },
+    "series": { "name": "New Zealand tour of England 2026" },
     "sport": "cricket",
     "post_url": ""
   },
   {
     "match": {
-      "title": "West Indies W V Scotland W",
-      "date": "2026-06-18",
+      "title": "Pakistan W V Bangladesh W",
+      "date": "2026-06-20",
+      "venue": "The Rose Bowl, Southampton",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "14:30" },
+    "series": { "name": "ICC Women's T20 World Cup 2026" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "England W V Scotland W",
+      "date": "2026-06-20",
       "venue": "Headingley, Leeds",
-      "team1_logo": "https://flagcdn.com/w80/jm.png",
-      "team2_logo": "https://flagcdn.com/w80/gb-sct.png"
-    },
-    "time": { "display": "22:30" },
-    "series": { "name": "ICC Women's T20 World Cup 2026" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Texas Super Kings V Seattle Orcas",
-      "date": "2026-06-19",
-      "venue": "Grand Prairie Cricket Stadium, Dallas",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "05:30" },
-    "series": { "name": "Major League Cricket 2026" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Bangladesh V Australia",
-      "date": "2026-06-19",
-      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-      "team1_logo": "https://flagcdn.com/w80/bd.png",
-      "team2_logo": "https://flagcdn.com/w80/au.png"
-    },
-    "time": { "display": "13:00" },
-    "series": { "name": "Australia Tour of Bangladesh 2026 - 2nd T20I" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "New Zealand W V Ireland W",
-      "date": "2026-06-19",
-      "venue": "Utilita Bowl, Southampton",
-      "team1_logo": "https://flagcdn.com/w80/nz.png",
-      "team2_logo": "https://flagcdn.com/w80/ie.png"
-    },
-    "time": { "display": "22:30" },
+    "time": { "display": "18:30" },
     "series": { "name": "ICC Women's T20 World Cup 2026" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Los Angeles Knight Riders V San Francisco Unicorns",
-      "date": "2026-06-19",
-      "venue": "Grand Prairie Cricket Stadium, Dallas",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "01:30" },
-    "series": { "name": "Major League Cricket 2026" },
     "sport": "cricket",
     "post_url": ""
   }
