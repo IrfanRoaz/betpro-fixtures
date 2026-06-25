@@ -323,5 +323,148 @@
     "series": { "name": "FIFA World Cup 2026" },
     "sport": "football",
     "post_url": ""
+  },
+  {
+    "match": {
+      "title": "England V New Zealand",
+      "date": "2026-06-25",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "15:00" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "India W V Bangladesh W",
+      "date": "2026-06-25",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "18:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "West Indies V Sri Lanka",
+      "date": "2026-06-25",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "19:00" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "South Africa W V Netherlands W",
+      "date": "2026-06-25",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "22:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Washington Freedom V Seattle Orcas",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "06:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Ireland V India",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "17:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Sri Lanka W V Scotland W",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "22:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Kent V Nottinghamshire",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "23:00" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "West Indies W V Ireland W",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "18:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "England W V New Zealand W",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "22:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Zimbabwe V Bangladesh",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "12:30" },
+    "series": { "name": "Cricket" },
+    "sport": "cricket",
+    "post_url": ""
   }
 ]
