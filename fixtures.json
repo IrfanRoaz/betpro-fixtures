@@ -89,5 +89,239 @@
     "series": { "name": "FIFA World Cup 2026" },
     "sport": "football",
     "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Ecuador V Germany",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "01:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Curacao V Ivory Coast",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "01:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Japan V Sweden",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "04:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Tunisia V Netherlands",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "04:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Paraguay V Australia",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "07:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Türkiye V USA",
+      "date": "2026-06-26",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "07:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Norway V France",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "00:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Senegal V Iraq",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "00:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Cape Verde V Saudi Arabia",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "05:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Uruguay V Spain",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "05:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Egypt V Iran",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "08:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "New Zealand V Belgium",
+      "date": "2026-06-27",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "08:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Croatia V Ghana",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "02:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Panama V England",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "02:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "DR Congo V Uzbekistan",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "04:30" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Colombia V Portugal",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "04:30" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Algeria V Austria",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "07:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
+  },
+  {
+    "match": {
+      "title": "Jordan V Argentina",
+      "date": "2026-06-28",
+      "venue": "",
+      "team1_logo": "",
+      "team2_logo": ""
+    },
+    "time": { "display": "07:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
+    "post_url": ""
   }
 ]
