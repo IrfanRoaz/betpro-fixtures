@@ -1,7 +1,7 @@
 [
   {
     "match": {
-      "title": "Netherlands V Sweden",
+      "title": "Netherlands vs Sweden",
       "date": "2026-06-21",
       "venue": "Houston Stadium",
       "team1_logo": "",
@@ -14,7 +14,7 @@
   },
   {
     "match": {
-      "title": "Germany V Ivory Coast",
+      "title": "Germany vs Ivory Coast",
       "date": "2026-06-21",
       "venue": "Toronto Stadium",
       "team1_logo": "",
@@ -27,7 +27,7 @@
   },
   {
     "match": {
-      "title": "Ecuador V Curacao",
+      "title": "Ecuador vs Curacao",
       "date": "2026-06-21",
       "venue": "Kansas City Stadium",
       "team1_logo": "",
@@ -40,7 +40,7 @@
   },
   {
     "match": {
-      "title": "Tunisia V Japan",
+      "title": "Tunisia vs Japan",
       "date": "2026-06-21",
       "venue": "Estadio Monterrey",
       "team1_logo": "",
@@ -53,7 +53,7 @@
   },
   {
     "match": {
-      "title": "Spain V Saudi Arabia",
+      "title": "Spain vs Saudi Arabia",
       "date": "2026-06-21",
       "venue": "Atlanta Stadium",
       "team1_logo": "",
@@ -66,7 +66,7 @@
   },
   {
     "match": {
-      "title": "Belgium V Iran",
+      "title": "Belgium vs Iran",
       "date": "2026-06-21",
       "venue": "Los Angeles Stadium",
       "team1_logo": "",
@@ -79,7 +79,7 @@
   },
   {
     "match": {
-      "title": "Uruguay V Cape Verde",
+      "title": "Uruguay vs Cape Verde",
       "date": "2026-06-21",
       "venue": "Miami Stadium",
       "team1_logo": "",
@@ -92,7 +92,7 @@
   },
   {
     "match": {
-      "title": "Ecuador V Germany",
+      "title": "Ecuador vs Germany",
       "date": "2026-06-26",
       "venue": "New York New Jersey Stadium",
       "team1_logo": "",
@@ -105,7 +105,7 @@
   },
   {
     "match": {
-      "title": "Curacao V Ivory Coast",
+      "title": "Curacao vs Ivory Coast",
       "date": "2026-06-26",
       "venue": "Philadelphia Stadium",
       "team1_logo": "",
@@ -118,7 +118,7 @@
   },
   {
     "match": {
-      "title": "Japan V Sweden",
+      "title": "Japan vs Sweden",
       "date": "2026-06-26",
       "venue": "Dallas Stadium",
       "team1_logo": "",
@@ -131,7 +131,7 @@
   },
   {
     "match": {
-      "title": "Tunisia V Netherlands",
+      "title": "Tunisia vs Netherlands",
       "date": "2026-06-26",
       "venue": "Kansas City Stadium",
       "team1_logo": "",
@@ -144,7 +144,7 @@
   },
   {
     "match": {
-      "title": "Paraguay V Australia",
+      "title": "Paraguay vs Australia",
       "date": "2026-06-26",
       "venue": "San Francisco Bay Area Stadium",
       "team1_logo": "",
@@ -157,7 +157,7 @@
   },
   {
     "match": {
-      "title": "Türkiye V USA",
+      "title": "Türkiye vs USA",
       "date": "2026-06-26",
       "venue": "Los Angeles Stadium",
       "team1_logo": "",
@@ -170,7 +170,7 @@
   },
   {
     "match": {
-      "title": "Norway V France",
+      "title": "Norway vs France",
       "date": "2026-06-27",
       "venue": "Boston Stadium",
       "team1_logo": "",
@@ -183,7 +183,7 @@
   },
   {
     "match": {
-      "title": "Senegal V Iraq",
+      "title": "Senegal vs Iraq",
       "date": "2026-06-27",
       "venue": "Toronto Stadium",
       "team1_logo": "",
@@ -196,7 +196,7 @@
   },
   {
     "match": {
-      "title": "Cape Verde V Saudi Arabia",
+      "title": "Cape Verde vs Saudi Arabia",
       "date": "2026-06-27",
       "venue": "Houston Stadium",
       "team1_logo": "",
@@ -209,7 +209,7 @@
   },
   {
     "match": {
-      "title": "Uruguay V Spain",
+      "title": "Uruguay vs Spain",
       "date": "2026-06-27",
       "venue": "Guadalajara Stadium",
       "team1_logo": "",
@@ -222,7 +222,7 @@
   },
   {
     "match": {
-      "title": "Egypt V Iran",
+      "title": "Egypt vs Iran",
       "date": "2026-06-27",
       "venue": "Seattle Stadium",
       "team1_logo": "",
@@ -235,7 +235,7 @@
   },
   {
     "match": {
-      "title": "New Zealand V Belgium",
+      "title": "New Zealand vs Belgium",
       "date": "2026-06-27",
       "venue": "BC Place Vancouver",
       "team1_logo": "",
@@ -248,7 +248,7 @@
   },
   {
     "match": {
-      "title": "Croatia V Ghana",
+      "title": "Croatia vs Ghana",
       "date": "2026-06-28",
       "venue": "Philadelphia Stadium",
       "team1_logo": "",
@@ -261,7 +261,7 @@
   },
   {
     "match": {
-      "title": "Panama V England",
+      "title": "Panama vs England",
       "date": "2026-06-28",
       "venue": "New York New Jersey Stadium",
       "team1_logo": "",
@@ -274,7 +274,7 @@
   },
   {
     "match": {
-      "title": "DR Congo V Uzbekistan",
+      "title": "DR Congo vs Uzbekistan",
       "date": "2026-06-28",
       "venue": "Atlanta Stadium",
       "team1_logo": "",
@@ -287,7 +287,7 @@
   },
   {
     "match": {
-      "title": "Colombia V Portugal",
+      "title": "Colombia vs Portugal",
       "date": "2026-06-28",
       "venue": "Miami Stadium",
       "team1_logo": "",
@@ -300,7 +300,7 @@
   },
   {
     "match": {
-      "title": "Algeria V Austria",
+      "title": "Algeria vs Austria",
       "date": "2026-06-28",
       "venue": "Kansas City Stadium",
       "team1_logo": "",
@@ -313,7 +313,7 @@
   },
   {
     "match": {
-      "title": "Jordan V Argentina",
+      "title": "Jordan vs Argentina",
       "date": "2026-06-28",
       "venue": "Dallas Stadium",
       "team1_logo": "",
@@ -326,7 +326,7 @@
   },
   {
     "match": {
-      "title": "England V New Zealand",
+      "title": "England vs New Zealand",
       "date": "2026-06-25",
       "venue": "Trent Bridge",
       "team1_logo": "",
@@ -339,7 +339,7 @@
   },
   {
     "match": {
-      "title": "India W V Bangladesh W",
+      "title": "India W vs Bangladesh W",
       "date": "2026-06-25",
       "venue": "",
       "team1_logo": "",
@@ -352,7 +352,7 @@
   },
   {
     "match": {
-      "title": "West Indies V Sri Lanka",
+      "title": "West Indies vs Sri Lanka",
       "date": "2026-06-25",
       "venue": "",
       "team1_logo": "",
@@ -365,7 +365,7 @@
   },
   {
     "match": {
-      "title": "South Africa W V Netherlands W",
+      "title": "South Africa W vs Netherlands W",
       "date": "2026-06-25",
       "venue": "",
       "team1_logo": "",
@@ -378,7 +378,7 @@
   },
   {
     "match": {
-      "title": "Washington Freedom V Seattle Orcas",
+      "title": "Washington Freedom vs Seattle Orcas",
       "date": "2026-06-26",
       "venue": "Grand Prairie Stadium, Dallas",
       "team1_logo": "",
@@ -391,7 +391,7 @@
   },
   {
     "match": {
-      "title": "Ireland V India",
+      "title": "Ireland vs India",
       "date": "2026-06-26",
       "venue": "",
       "team1_logo": "",
@@ -404,7 +404,7 @@
   },
   {
     "match": {
-      "title": "Sri Lanka W V Scotland W",
+      "title": "Sri Lanka W vs Scotland W",
       "date": "2026-06-26",
       "venue": "",
       "team1_logo": "",
@@ -417,7 +417,7 @@
   },
   {
     "match": {
-      "title": "Kent V Nottinghamshire",
+      "title": "Kent vs Nottinghamshire",
       "date": "2026-06-26",
       "venue": "St Lawrence Ground, Canterbury",
       "team1_logo": "",
@@ -430,7 +430,7 @@
   },
   {
     "match": {
-      "title": "West Indies W V Ireland W",
+      "title": "West Indies W vs Ireland W",
       "date": "2026-06-27",
       "venue": "",
       "team1_logo": "",
@@ -443,7 +443,7 @@
   },
   {
     "match": {
-      "title": "England W V New Zealand W",
+      "title": "England W vs New Zealand W",
       "date": "2026-06-27",
       "venue": "",
       "team1_logo": "",
@@ -456,7 +456,7 @@
   },
   {
     "match": {
-      "title": "Zimbabwe V Bangladesh",
+      "title": "Zimbabwe vs Bangladesh",
       "date": "2026-06-28",
       "venue": "",
       "team1_logo": "",
