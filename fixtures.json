@@ -1,334 +1,9 @@
 [
   {
     "match": {
-      "title": "Netherlands vs Sweden",
-      "date": "2026-06-21",
-      "venue": "Houston Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "01:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Germany vs Ivory Coast",
-      "date": "2026-06-21",
-      "venue": "Toronto Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "05:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Ecuador vs Curacao",
-      "date": "2026-06-21",
-      "venue": "Kansas City Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "09:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Tunisia vs Japan",
-      "date": "2026-06-21",
-      "venue": "Estadio Monterrey",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "21:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Spain vs Saudi Arabia",
-      "date": "2026-06-21",
-      "venue": "Atlanta Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "00:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Belgium vs Iran",
-      "date": "2026-06-21",
-      "venue": "Los Angeles Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "03:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Uruguay vs Cape Verde",
-      "date": "2026-06-21",
-      "venue": "Miami Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Ecuador vs Germany",
-      "date": "2026-06-26",
-      "venue": "New York New Jersey Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "01:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Curacao vs Ivory Coast",
-      "date": "2026-06-26",
-      "venue": "Philadelphia Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "01:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Japan vs Sweden",
-      "date": "2026-06-26",
-      "venue": "Dallas Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "04:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Tunisia vs Netherlands",
-      "date": "2026-06-26",
-      "venue": "Kansas City Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "04:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Paraguay vs Australia",
-      "date": "2026-06-26",
-      "venue": "San Francisco Bay Area Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "07:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Türkiye vs USA",
-      "date": "2026-06-26",
-      "venue": "Los Angeles Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "07:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Norway vs France",
-      "date": "2026-06-27",
-      "venue": "Boston Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "00:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Senegal vs Iraq",
-      "date": "2026-06-27",
-      "venue": "Toronto Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "00:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Cape Verde vs Saudi Arabia",
-      "date": "2026-06-27",
-      "venue": "Houston Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "05:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Uruguay vs Spain",
-      "date": "2026-06-27",
-      "venue": "Guadalajara Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "05:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Egypt vs Iran",
-      "date": "2026-06-27",
-      "venue": "Seattle Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "08:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "New Zealand vs Belgium",
-      "date": "2026-06-27",
-      "venue": "BC Place Vancouver",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "08:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Croatia vs Ghana",
-      "date": "2026-06-28",
-      "venue": "Philadelphia Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "02:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Panama vs England",
-      "date": "2026-06-28",
-      "venue": "New York New Jersey Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "02:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "DR Congo vs Uzbekistan",
-      "date": "2026-06-28",
-      "venue": "Atlanta Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "04:30" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Colombia vs Portugal",
-      "date": "2026-06-28",
-      "venue": "Miami Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "04:30" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Algeria vs Austria",
-      "date": "2026-06-28",
-      "venue": "Kansas City Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "07:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Jordan vs Argentina",
-      "date": "2026-06-28",
-      "venue": "Dallas Stadium",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "07:00" },
-    "series": { "name": "FIFA World Cup 2026" },
-    "sport": "football",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "England vs New Zealand",
-      "date": "2026-06-25",
-      "venue": "Trent Bridge",
+      "title": "Zimbabwe vs Bangladesh",
+      "date": "2026-06-29",
+      "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
@@ -339,8 +14,8 @@
   },
   {
     "match": {
-      "title": "India W vs Bangladesh W",
-      "date": "2026-06-25",
+      "title": "England vs New Zealand",
+      "date": "2026-06-30",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
@@ -352,119 +27,67 @@
   },
   {
     "match": {
-      "title": "West Indies vs Sri Lanka",
-      "date": "2026-06-25",
+      "title": "Australia W vs West Indies W",
+      "date": "2026-06-29",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "19:00" },
+    "time": { "display": "22:00" },
     "series": { "name": "Cricket" },
     "sport": "cricket",
     "post_url": ""
   },
   {
     "match": {
-      "title": "South Africa W vs Netherlands W",
-      "date": "2026-06-25",
+      "title": "Brazil vs Japan",
+      "date": "2026-06-30",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "22:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
+    "time": { "display": "01:30" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
     "post_url": ""
   },
   {
     "match": {
-      "title": "Washington Freedom vs Seattle Orcas",
-      "date": "2026-06-26",
-      "venue": "Grand Prairie Stadium, Dallas",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "06:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Ireland vs India",
-      "date": "2026-06-26",
+      "title": "Germany vs Paraguay",
+      "date": "2026-06-30",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "17:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
+    "time": { "display": "06:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
     "post_url": ""
   },
   {
     "match": {
-      "title": "Sri Lanka W vs Scotland W",
-      "date": "2026-06-26",
+      "title": "Netherlands vs Morocco",
+      "date": "2026-06-30",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "22:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
+    "time": { "display": "22:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
     "post_url": ""
   },
   {
     "match": {
-      "title": "Kent vs Nottinghamshire",
-      "date": "2026-06-26",
-      "venue": "St Lawrence Ground, Canterbury",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "23:00" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "West Indies W vs Ireland W",
-      "date": "2026-06-27",
+      "title": "Ivory Coast vs Norway",
+      "date": "2026-06-30",
       "venue": "",
       "team1_logo": "",
       "team2_logo": ""
     },
-    "time": { "display": "18:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "England W vs New Zealand W",
-      "date": "2026-06-27",
-      "venue": "",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "22:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
-    "post_url": ""
-  },
-  {
-    "match": {
-      "title": "Zimbabwe vs Bangladesh",
-      "date": "2026-06-28",
-      "venue": "",
-      "team1_logo": "",
-      "team2_logo": ""
-    },
-    "time": { "display": "12:30" },
-    "series": { "name": "Cricket" },
-    "sport": "cricket",
+    "time": { "display": "02:00" },
+    "series": { "name": "FIFA World Cup 2026" },
+    "sport": "football",
     "post_url": ""
   }
 ]
